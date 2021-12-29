@@ -1,8 +1,0 @@
-{
-  "NAME": "Distribuição normal",
-  "DESC": "Gera valores aleatórios normalmente distribuídos com uma média e desvio padrão personalizáveis.",
-  "DEFAULT_TITLE": "distnormal",
-  "mean": "média",
-  "standardDeviation": "Desvio padrão",
-  "precision": "Precisão"
-}
